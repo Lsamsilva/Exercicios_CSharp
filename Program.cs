@@ -203,14 +203,7 @@ namespace exercicios_CSharp
             //Saída de Dados
             Console.WriteLine(+Qtde+" dólares equivalem a "+R0+" reais na cotação atual.");
 
-            Console.ReadKey();
-
-
-
-
-
-
-            
+            Console.ReadKey();         
 
         }
     }
